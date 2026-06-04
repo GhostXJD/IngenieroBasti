@@ -30,49 +30,49 @@ export const memories = [
   },
   {
     id: 4,
-    image: 'IMG_8191.jpg',
+    image: 'IMG_8192.jpg',
     year: '2024',
     title: 'Sonrisas que quedan',
     text: 'Momentos de pausa, donde el cansancio se borraba con una buena conversación y una sonrisa.'
   },
   {
     id: 5,
-    image: 'IMG_8192.jpg',
+    image: 'IMG_8193.jpg',
     year: '2025',
     title: 'Creciendo juntos',
     text: 'Un año nuevo, más desafíos, y siempre esa perseverancia que te define.'
   },
   {
     id: 6,
-    image: 'IMG_8193.jpg',
+    image: 'IMG_8198.jpg',
     year: '2025',
     title: 'La dedicación',
     text: 'Estudiando hasta tarde, porque sabías que cada esfuerzo valía la pena para llegar hasta aquí.'
   },
   {
     id: 7,
-    image: 'IMG_8194.jpg',
+    image: 'IMG_8196.jpg',
     year: '2025',
     title: 'Momentos que importan',
     text: 'No solo fueron estudios, también fueron risas, abrazos y recuerdos que guardaremos siempre.'
   },
   {
     id: 8,
-    image: 'IMG_8196.jpg',
+    image: 'IMG_8197.jpg',
     year: '2025',
     title: 'Casi en la meta',
     text: 'El último tramo, con la mirada fija en el título y el corazón lleno de orgullo.'
   },
   {
     id: 9,
-    image: 'IMG_8197.jpg',
+    image: 'IMG_8194.jpg',
     year: '2025',
     title: 'Fortaleza',
     text: 'Demostrando que no hay obstáculo que no puedas superar con determinación y pasión.'
   },
   {
     id: 10,
-    image: 'IMG_8198.jpg',
+    image: 'IMG_8191.jpg',
     year: '2026',
     title: 'El último esfuerzo',
     text: 'Los últimos pasos de este viaje, preparándote para el gran día que tanto esperaste.'
