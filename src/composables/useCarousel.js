@@ -1,6 +1,6 @@
 import { ref, computed, onMounted, onUnmounted } from 'vue'
 
-export function useCarousel(items, { autoPlayInterval = 4000 } = {}) {
+export function useCarousel(items, { autoPlayInterval = 15000 } = {}) {
   const currentIndex = ref(0)
   const isPlaying = ref(true)
   let timer = null
