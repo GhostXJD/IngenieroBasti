@@ -9,5 +9,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/IngenieroBasti/'
+  base: "https://ghostxjd.github.io/IngenieroBasti/"
 })

@@ -9,45 +9,45 @@ export const hero = {
 export const memories = [
   {
     id: 1,
-    image: 'IMG_8188.jpg',
+    image: 'IMG_8191.jpg',
     year: '2024',
     title: 'El comienzo',
-    text: 'Cuando todo empezó, sin saber aún a dónde nos llevaría este camino lleno de ciencia y aprendizaje.'
+    text: 'Cuando todo empezó, sin saber aún a dónde nos llevaría este camino.'
   },
   {
     id: 2,
     image: 'IMG_8189.jpg',
     year: '2024',
     title: 'Primeros pasos',
-    text: 'Los primeros días en que la biotecnología era solo un sueño y cada clase era un mundo por descubrir.'
+    text: 'Los primeras salidas de vacaciones a distintas partes.'
   },
   {
     id: 3,
     image: 'IMG_8190.jpg',
     year: '2024',
-    title: 'Entre laboratorios',
-    text: 'Horas de laboratorio, experimentos y esa chispa de emoción cuando algo funcionaba.'
+    title: 'Entre locuras',
+    text: 'Horas, dias, semanas, meses aguantandose.'
   },
   {
     id: 4,
     image: 'IMG_8192.jpg',
     year: '2024',
     title: 'Sonrisas que quedan',
-    text: 'Momentos de pausa, donde el cansancio se borraba con una buena conversación y una sonrisa.'
+    text: 'Momentos de basket, donde el cansancio se borraba con una buena conversación y una sonrisa.'
   },
   {
     id: 5,
-    image: 'IMG_8193.jpg',
+    image: 'IMG_8188.jpg',
     year: '2025',
-    title: 'Creciendo juntos',
-    text: 'Un año nuevo, más desafíos, y siempre esa perseverancia que te define.'
+    title: 'Basket',
+    text: 'Viajando por argentina.'
   },
   {
     id: 6,
     image: 'IMG_8198.jpg',
     year: '2025',
     title: 'La dedicación',
-    text: 'Estudiando hasta tarde, porque sabías que cada esfuerzo valía la pena para llegar hasta aquí.'
+    text: 'Estudiando hasta tarde, llamadas de discord donde aveces ni hablabamos.'
   },
   {
     id: 7,
@@ -60,22 +60,22 @@ export const memories = [
     id: 8,
     image: 'IMG_8197.jpg',
     year: '2025',
-    title: 'Casi en la meta',
-    text: 'El último tramo, con la mirada fija en el título y el corazón lleno de orgullo.'
+    title: 'Halloween',
+    text: 'Disfrutando de cada momento, incluso de los más locos como este Halloween.'
   },
   {
     id: 9,
     image: 'IMG_8194.jpg',
     year: '2025',
-    title: 'Fortaleza',
-    text: 'Demostrando que no hay obstáculo que no puedas superar con determinación y pasión.'
+    title: 'Glow up',
+    text: 'El cambio, el crecimiento, el esfuerzo que se ve reflejado en cada paso que diste.'
   },
   {
     id: 10,
-    image: 'IMG_8191.jpg',
+    image: 'IMG_8193.jpg',
     year: '2026',
-    title: 'El último esfuerzo',
-    text: 'Los últimos pasos de este viaje, preparándote para el gran día que tanto esperaste.'
+    title: 'El esfuerzo, todo suma',
+    text: 'El esfuerzo que se ve, cada vez que entranabamos juntos, cada vez que te quedabas hasta tarde estudiando, cada vez que te levantabas temprano.'
   },
   {
     id: 11,
@@ -89,9 +89,13 @@ export const memories = [
 export const dedicatoria = {
   title: 'Para ti, Basti',
   paragraphs: [
-    'Hoy no solo celebras un título, celebras años de esfuerzo, desvelos, experimentos fallidos que se convirtieron en aprendizaje, y victorias que forjaron el profesional que eres. Pasaste de soñar con la ciencia a vivirla, de preguntarte "¿cómo funciona?" a ser quien diseña las soluciones del mañana.',
-    'Detrás de cada foto hay un recuerdo, una historia, un momento que vale oro. Cada sonrisa en estas imágenes representa no solo un instante feliz, sino la certeza de que todo el camino valió la pena. Gracias por compartir este viaje, por inspirar, por nunca rendirte.',
-    'Que este sea el primero de muchos logros. El mundo necesita más personas como tú, que transforman el conocimiento en esperanza y la ciencia en un futuro mejor. Felicidades, Ingeniero.'
+    'Yo creo que ya debes saber lo mucho que me va a costar escribir esto, porque no es fácil expresarlo para mi, pero no sabes lo orgulloso que estoy de ti. Pero voy a intentar escribirlo....',
+    'Fuera de las veces que te agarro para el webeo, siempre admire tu dedicación, tu inteligencia, y valoro cada momento en el que me dejaste ser parte de tu vida, tus lloros, tus risas, tus logros.',
+    'Creo que hoy era el momento de dedicarte algo mas personal a algo material, algo que puedas guardar y recordar siempre, porque hoy es un día para recordar, para celebrar, para agradecer por todo lo que viviste y por todo lo que viene. Al final cada momento de la vida nos trajo aqui.',
+    'Hoy no solo celebras un título, celebras años de esfuerzo, desvelos, experimentos fallidos que se convirtieron en aprendizaje, y victorias que forman el profesional que eres.',
+    'Detrás de cada foto hay un recuerdo, una historia, un momento que vale oro. Cada sonrisa en estas imágenes representa no solo un instante feliz, sino la certeza de que todo el camino valió la pena.',  
+    'Te valoro caleta, son demasiados años de amistad, risas, recuerdos, momentos de los cuales si los nombro esto seria muy muy largo. Gracias por tus consejos, tu apoyo, siempre estas cuando lo necesito, de verdad que de las mejores cosas que me a pasado en mi vida es tener tu amistad, gracias por nunca rendirte.',
+    'Que este sea el primero de muchos logros. El mundo necesita más personas como tú, que transforman el conocimiento y la ciencia en un futuro mejor. Felicidades, Ingeniero.'
   ],
-  signature: 'Con mucho cariño, tu amigo que siempre creyó en ti ❤️'
+  signature: 'Con mucho cariño, tu bestie que siempre creyó en ti ❤️'
 }
